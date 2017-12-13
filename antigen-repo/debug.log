@@ -1,0 +1,2537 @@
+[WRN][1506625364.1667606831] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506625364.1667606831] -antigen-interactive-mode: file:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506625364.1672251225] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506625364.1672251225] -antigen-lock-init return code was 0
+[LOG][1506625364.1673128605] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506625364.1673128605] LOADED EXTENSION lock EXT
+[WRN][1506625364.1692132950] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1666
+[WRN][1506625364.1692132950] Init parallel extension PARALLEL
+[WRN][1506625364.1693367958] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506625364.1693367958] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506625364.1694524288] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506625364.1694524288] -antigen-parallel-init return code was 0
+[LOG][1506625364.1695272923] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506625364.1695272923] LOADED EXTENSION parallel EXT
+[WRN][1506625364.1696035862] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1674
+[WRN][1506625364.1696035862] Exec parallel extension PARALLEL
+[WRN][1506625364.1699986458] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506625364.1699986458] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506625364.1701078415] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506625364.1701078415] -antigen-defer-init return code was 0
+[LOG][1506625364.1701805592] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506625364.1701805592] LOADED EXTENSION defer EXT
+[WRN][1506625364.1713886261] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506625364.1713886261] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506625364.1717195511] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506625364.1717195511] -antigen-cache-init return code was 0
+[LOG][1506625364.1718032360] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506625364.1718032360] LOADED EXTENSION cache EXT
+[WRN][1506625364.1740252972] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1740252972] Updated meta: target antigen mode once type pre called 1
+[WRN][1506625364.1741375923] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1741375923] Processing hooks: antigen-lock
+[WRN][1506625364.1742141247] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1742141247] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1506625364.1742892265] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:4
+[LOG][1506625364.1742892265] antigen-lock called
+[WRN][1506625364.1743671894] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:15
+[WRN][1506625364.1743671894] Creating antigen-lock file at /home/cloe/.config/zsh/antigen-repo/.lock
+[WRN][1506625364.1755197048] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1755197048] -antigen-hook-antigen use oh-my-zsh
+[WRN][1506625364.1777138710] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1777138710] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1506625364.1778893471] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1778893471] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1506625364.1779842377] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1779842377] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1780593395] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1780593395] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506625364.1781866550] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1781866550] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1506625364.1782875061] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1782875061] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1784386635] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1784386635] Return from hook antigen with 0
+[WRN][1506625364.1786637306] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1786637306] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1787371635] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1787371635] Processing hooks: antigen-lock
+[WRN][1506625364.1788163185] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1788163185] -antigen-hook-antigen bundle git
+[WRN][1506625364.1790204048] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1790204048] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1506625364.1791543961] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1791543961] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1506625364.1792373657] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1792373657] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1793065071] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1793065071] Pre hook: antigen-bundle-cached git
+[WRN][1506625364.1794216633] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1794216633] Replace hook: antigen-bundle-defer git
+[WRN][1506625364.1795148849] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1795148849] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1796581745] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1796581745] Return from hook antigen with 0
+[WRN][1506625364.1798546314] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1798546314] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1799254417] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1799254417] Processing hooks: antigen-lock
+[WRN][1506625364.1800029278] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1800029278] -antigen-hook-antigen bundle svn
+[WRN][1506625364.1802048683] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1802048683] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1506625364.1803355217] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1803355217] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1506625364.1804175377] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1804175377] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1804866791] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1804866791] Pre hook: antigen-bundle-cached svn
+[WRN][1506625364.1805996895] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1805996895] Replace hook: antigen-bundle-defer svn
+[WRN][1506625364.1806941032] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1806941032] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1808042526] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1808042526] Return from hook antigen with 0
+[WRN][1506625364.1809928417] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1809928417] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1810624599] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1810624599] Processing hooks: antigen-lock
+[WRN][1506625364.1811399460] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1811399460] -antigen-hook-antigen bundle virtualenv
+[WRN][1506625364.1813418865] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1813418865] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1506625364.1814718246] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1814718246] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1506625364.1815631390] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1815631390] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1816329956] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1816329956] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506625364.1817479134] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1817479134] Replace hook: antigen-bundle-defer virtualenv
+[WRN][1506625364.1818416119] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1818416119] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1819508076] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1819508076] Return from hook antigen with 0
+[WRN][1506625364.1821594238] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1821594238] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1822295189] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1822295189] Processing hooks: antigen-lock
+[WRN][1506625364.1823091507] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1823091507] -antigen-hook-antigen bundle zdharma/fast-syntax-highlighting
+[WRN][1506625364.1825127602] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1825127602] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1506625364.1826434135] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1826434135] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1506625364.1827251911] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1827251911] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1827945709] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1827945709] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506625364.1829097271] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1829097271] Replace hook: antigen-bundle-defer zdharma/fast-syntax-highlighting
+[WRN][1506625364.1830053329] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1830053329] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1831145287] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1831145287] Return from hook antigen with 0
+[WRN][1506625364.1833248138] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1833248138] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1833946705] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1833946705] Processing hooks: antigen-lock
+[WRN][1506625364.1834731102] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1834731102] -antigen-hook-antigen bundle zsh-users/zsh-history-substring-search
+[WRN][1506625364.1837084293] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1837084293] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1506625364.1838359833] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1838359833] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1506625364.1839141846] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1839141846] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1839802265] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1839802265] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506625364.1840903759] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1840903759] Replace hook: antigen-bundle-defer zsh-users/zsh-history-substring-search
+[WRN][1506625364.1841814518] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1841814518] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1842861176] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1842861176] Return from hook antigen with 0
+[WRN][1506625364.1844768524] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1844768524] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1845507622] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1845507622] Processing hooks: antigen-lock
+[WRN][1506625364.1846251488] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1846251488] -antigen-hook-antigen bundle xgarrido/zsh-completions
+[WRN][1506625364.1848173141] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1848173141] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1506625364.1849415302] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1849415302] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1506625364.1850192547] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1850192547] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1850845814] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1850845814] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506625364.1851935387] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1851935387] Replace hook: antigen-bundle-defer xgarrido/zsh-completions
+[WRN][1506625364.1852838993] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1852838993] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1853868961] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1853868961] Return from hook antigen with 0
+[WRN][1506625364.1855766773] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1855766773] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1856429577] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1856429577] Processing hooks: antigen-lock
+[WRN][1506625364.1857173443] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1857173443] -antigen-hook-antigen bundle xgarrido/zsh-utilities
+[WRN][1506625364.1859076023] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1859076023] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1506625364.1860313416] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1860313416] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1506625364.1861085892] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1861085892] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1861741543] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1861741543] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506625364.1862828732] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1862828732] Replace hook: antigen-bundle-defer xgarrido/zsh-utilities
+[WRN][1506625364.1863729954] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1863729954] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1864769459] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1864769459] Return from hook antigen with 0
+[WRN][1506625364.1866683960] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1866683960] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1867353916] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1867353916] Processing hooks: antigen-lock
+[WRN][1506625364.1868093014] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1868093014] -antigen-hook-antigen bundle xgarrido/zsh-aggregator
+[WRN][1506625364.1869995594] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1869995594] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1506625364.1871221066] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1871221066] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1506625364.1871998310] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1871998310] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1872735023] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1872735023] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506625364.1873841286] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1873841286] Replace hook: antigen-bundle-defer xgarrido/zsh-aggregator
+[WRN][1506625364.1874747276] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1874747276] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1875786781] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1875786781] Return from hook antigen with 0
+[WRN][1506625364.1877911091] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1877911091] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1878583431] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1878583431] Processing hooks: antigen-lock
+[WRN][1506625364.1879324913] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1879324913] -antigen-hook-antigen bundle xgarrido/zsh-org-pages
+[WRN][1506625364.1881222725] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1881222725] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1506625364.1882464886] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1882464886] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1506625364.1883246899] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1883246899] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1883897781] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1883897781] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506625364.1884987354] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1884987354] Replace hook: antigen-bundle-defer xgarrido/zsh-org-pages
+[WRN][1506625364.1885883808] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1885883808] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1886916161] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1886916161] Return from hook antigen with 0
+[WRN][1506625364.1888809204] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1888809204] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1889467239] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1889467239] Processing hooks: antigen-lock
+[WRN][1506625364.1890208721] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1890208721] -antigen-hook-antigen bundle xgarrido/zsh-themes
+[WRN][1506625364.1892104149] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1892104149] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1506625364.1893346310] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1893346310] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1506625364.1894118786] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1894118786] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1894772053] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1894772053] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506625364.1895868778] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1895868778] Replace hook: antigen-bundle-defer xgarrido/zsh-themes
+[WRN][1506625364.1896772385] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1896772385] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1897811890] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1897811890] Return from hook antigen with 0
+[WRN][1506625364.1899642944] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1899642944] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1900303364] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1900303364] Processing hooks: antigen-lock
+[WRN][1506625364.1901123524] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1901123524] -antigen-hook-antigen theme xgarrido/zsh-themes nemo
+[WRN][1506625364.1922957897] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1922957897] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1506625364.1924633980] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1924633980] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1506625364.1925537586] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1925537586] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506625364.1926271915] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1926271915] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506625364.1927533150] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1927533150] Replace hook: antigen-bundle-defer xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506625364.1928529739] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506625364.1928529739] antigen-bundle-defer shortcircuited
+[LOG][1506625364.1929924488] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1929924488] Return from hook antigen with 0
+[WRN][1506625364.1931989193] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625364.1931989193] Ignoring hook due to mode once: antigen-lock
+[WRN][1506625364.1932690144] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1932690144] Processing hooks: antigen-lock
+[WRN][1506625364.1933450699] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625364.1933450699] -antigen-hook-antigen apply
+[WRN][1506625364.1935477257] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1935477257] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1506625364.1936771870] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1936771870] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1506625364.1938014030] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1938014030] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1506625364.1939241886] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1939241886] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1506625364.1940453053] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1940453053] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1506625364.1941254139] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1941254139] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1506625364.1941945553] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1941945553] Pre hook: antigen-apply-parallel
+[WRN][1506625364.1942639351] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:53
+[WRN][1506625364.1942639351] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1506625364.1944503784] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1944503784] Pre hook: antigen-apply-defer
+[WRN][1506625364.1945207119] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:10
+[WRN][1506625364.1945207119] Defer pre-apply DEFER PRE-APPLY
+[LOG][1506625364.1947157383] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1947157383] Processing deferred bundle: --loc=lib DEFER
+[WRN][1506625364.1948873997] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1948873997] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1506625364.1950170994] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1950170994] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1506625364.1950979233] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1950979233] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1951742172] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1951742172] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506625364.1952881813] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1952881813] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1506625364.1953649521] /home/cloe/.zshrc:5
+[TRA][1506625364.1953649521] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1506625364.1953649521] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1954584122] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1954584122] Replaced hooked function.
+[LOG][1506625364.1955265999] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1955265999] Return from hook antigen-bundle with 0
+[LOG][1506625364.1956260204] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1956260204] Processing deferred bundle: git DEFER
+[WRN][1506625364.1957967281] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1957967281] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1506625364.1959142685] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1959142685] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1506625364.1959900856] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1959900856] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1960537434] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1960537434] Pre hook: antigen-bundle-cached git
+[WRN][1506625364.1961584091] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1961584091] Replace hook: antigen-bundle-parallel git
+[TRA][1506625364.1962273121] /home/cloe/.zshrc:5
+[TRA][1506625364.1962273121] antigen-bundle-parallel: git PARALLEL
+[TRA][1506625364.1962273121] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1963131428] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1963131428] Replaced hooked function.
+[LOG][1506625364.1963765621] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1963765621] Return from hook antigen-bundle with 0
+[LOG][1506625364.1964592934] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1964592934] Processing deferred bundle: svn DEFER
+[WRN][1506625364.1966121197] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1966121197] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1506625364.1967287064] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1967287064] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1506625364.1968038082] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1968038082] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1968669891] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1968669891] Pre hook: antigen-bundle-cached svn
+[WRN][1506625364.1969714165] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1969714165] Replace hook: antigen-bundle-parallel svn
+[TRA][1506625364.1970400810] /home/cloe/.zshrc:5
+[TRA][1506625364.1970400810] antigen-bundle-parallel: svn PARALLEL
+[TRA][1506625364.1970400810] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1971251965] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1971251965] Replaced hooked function.
+[LOG][1506625364.1971967220] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1971967220] Return from hook antigen-bundle with 0
+[LOG][1506625364.1972806454] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1972806454] Processing deferred bundle: virtualenv DEFER
+[WRN][1506625364.1974353790] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1974353790] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1506625364.1975526810] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1975526810] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1506625364.1976287365] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1976287365] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1976921558] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1976921558] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506625364.1977972984] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1977972984] Replace hook: antigen-bundle-parallel virtualenv
+[TRA][1506625364.1978664398] /home/cloe/.zshrc:5
+[TRA][1506625364.1978664398] antigen-bundle-parallel: virtualenv PARALLEL
+[TRA][1506625364.1978664398] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1979520321] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1979520321] Replaced hooked function.
+[LOG][1506625364.1980154514] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1980154514] Return from hook antigen-bundle with 0
+[LOG][1506625364.1980993748] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1980993748] Processing deferred bundle: zdharma/fast-syntax-highlighting DEFER
+[WRN][1506625364.1982545853] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1982545853] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1506625364.1983711720] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1983711720] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1506625364.1984462738] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1984462738] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1985101700] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1985101700] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506625364.1986179352] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1986179352] Replace hook: antigen-bundle-parallel zdharma/fast-syntax-highlighting
+[TRA][1506625364.1986885071] /home/cloe/.zshrc:5
+[TRA][1506625364.1986885071] antigen-bundle-parallel: zdharma/fast-syntax-highlighting PARALLEL
+[TRA][1506625364.1986885071] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1987783909] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1987783909] Replaced hooked function.
+[LOG][1506625364.1988420486] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1988420486] Return from hook antigen-bundle with 0
+[LOG][1506625364.1989245415] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1989245415] Processing deferred bundle: zsh-users/zsh-history-substring-search DEFER
+[WRN][1506625364.1990785599] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1990785599] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1506625364.1991953850] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1991953850] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1506625364.1992716789] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.1992716789] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.1993427277] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.1993427277] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506625364.1994514465] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.1994514465] Replace hook: antigen-bundle-parallel zsh-users/zsh-history-substring-search
+[TRA][1506625364.1995220184] /home/cloe/.zshrc:5
+[TRA][1506625364.1995220184] antigen-bundle-parallel: zsh-users/zsh-history-substring-search PARALLEL
+[TRA][1506625364.1995220184] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.1996285915] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.1996285915] Replaced hooked function.
+[LOG][1506625364.1996970177] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.1996970177] Return from hook antigen-bundle with 0
+[LOG][1506625364.1997816563] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.1997816563] Processing deferred bundle: xgarrido/zsh-completions DEFER
+[WRN][1506625364.1999368668] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.1999368668] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1506625364.2000534534] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2000534534] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1506625364.2001290321] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2001290321] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2001926899] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2001926899] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506625364.2002999783] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2002999783] Replace hook: antigen-bundle-parallel xgarrido/zsh-completions
+[TRA][1506625364.2003700733] /home/cloe/.zshrc:5
+[TRA][1506625364.2003700733] antigen-bundle-parallel: xgarrido/zsh-completions PARALLEL
+[TRA][1506625364.2003700733] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2004592419] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2004592419] Replaced hooked function.
+[LOG][1506625364.2005228996] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2005228996] Return from hook antigen-bundle with 0
+[LOG][1506625364.2006058693] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.2006058693] Processing deferred bundle: xgarrido/zsh-utilities DEFER
+[WRN][1506625364.2007591724] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2007591724] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1506625364.2008750439] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2008750439] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1506625364.2009501457] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2009501457] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2010138035] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2010138035] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506625364.2011196613] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2011196613] Replace hook: antigen-bundle-parallel xgarrido/zsh-utilities
+[TRA][1506625364.2011892796] /home/cloe/.zshrc:5
+[TRA][1506625364.2011892796] antigen-bundle-parallel: xgarrido/zsh-utilities PARALLEL
+[TRA][1506625364.2011892796] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2012863159] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2012863159] Replaced hooked function.
+[LOG][1506625364.2013504505] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2013504505] Return from hook antigen-bundle with 0
+[LOG][1506625364.2014329433] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.2014329433] Processing deferred bundle: xgarrido/zsh-aggregator DEFER
+[WRN][1506625364.2015864849] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2015864849] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1506625364.2017023563] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2017023563] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1506625364.2017774582] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2017774582] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2018408775] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2018408775] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506625364.2019472122] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2019472122] Replace hook: antigen-bundle-parallel xgarrido/zsh-aggregator
+[TRA][1506625364.2020163536] /home/cloe/.zshrc:5
+[TRA][1506625364.2020163536] antigen-bundle-parallel: xgarrido/zsh-aggregator PARALLEL
+[TRA][1506625364.2020163536] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2021052837] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2021052837] Replaced hooked function.
+[LOG][1506625364.2021689415] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2021689415] Return from hook antigen-bundle with 0
+[LOG][1506625364.2022519112] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.2022519112] Processing deferred bundle: xgarrido/zsh-org-pages DEFER
+[WRN][1506625364.2024037838] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2024037838] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1506625364.2025191784] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2025191784] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1506625364.2025942802] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2025942802] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2026579380] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2026579380] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506625364.2027642727] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2027642727] Replace hook: antigen-bundle-parallel xgarrido/zsh-org-pages
+[TRA][1506625364.2028331757] /home/cloe/.zshrc:5
+[TRA][1506625364.2028331757] antigen-bundle-parallel: xgarrido/zsh-org-pages PARALLEL
+[TRA][1506625364.2028331757] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2029218674] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2029218674] Replaced hooked function.
+[LOG][1506625364.2029850483] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2029850483] Return from hook antigen-bundle with 0
+[LOG][1506625364.2030673027] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.2030673027] Processing deferred bundle: xgarrido/zsh-themes DEFER
+[WRN][1506625364.2032201290] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2032201290] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1506625364.2033441067] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2033441067] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1506625364.2034194469] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2034194469] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2034831047] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2034831047] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506625364.2035894394] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2035894394] Replace hook: antigen-bundle-parallel xgarrido/zsh-themes
+[TRA][1506625364.2036745548] /home/cloe/.zshrc:5
+[TRA][1506625364.2036745548] antigen-bundle-parallel: xgarrido/zsh-themes PARALLEL
+[TRA][1506625364.2036745548] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2037668228] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2037668228] Replaced hooked function.
+[LOG][1506625364.2038304806] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2038304806] Return from hook antigen-bundle with 0
+[LOG][1506625364.2039132118] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506625364.2039132118] Processing deferred bundle: xgarrido/zsh-themes nemo --btype=theme DEFER
+[WRN][1506625364.2040679455] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2040679455] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1506625364.2041850090] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625364.2041850090] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1506625364.2042603493] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625364.2042603493] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506625364.2043244839] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625364.2043244839] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506625364.2044322491] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2044322491] Replace hook: antigen-bundle-parallel xgarrido/zsh-themes nemo --btype=theme
+[TRA][1506625364.2045021057] /home/cloe/.zshrc:5
+[TRA][1506625364.2045021057] antigen-bundle-parallel: xgarrido/zsh-themes nemo --btype=theme PARALLEL
+[TRA][1506625364.2045021057] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625364.2045922279] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625364.2045922279] Replaced hooked function.
+[LOG][1506625364.2046554089] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625364.2046554089] Return from hook antigen-bundle with 0
+[WRN][1506625364.2047715187] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625364.2047715187] Replace hook: antigen-apply-parallel-execute
+[WRN][1506625364.2048380375] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:65
+[WRN][1506625364.2048380375] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1506625364.2050058842] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:4
+[WRN][1506625364.2050058842] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1506625364.2050771713] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:8
+[WRN][1506625364.2050771713] Gonna install in parallel 12 bundles. PARALLEL
+[WRN][1506625364.2051391602] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:10
+[WRN][1506625364.2051391602] --loc=lib git svn virtualenv zdharma/fast-syntax-highlighting zsh-users/zsh-history-substring-search xgarrido/zsh-completions xgarrido/zsh-utilities xgarrido/zsh-aggregator xgarrido/zsh-org-pages xgarrido/zsh-themes xgarrido/zsh-themes nemo --btype=theme PARALLEL
+[WRN][1506625364.2057142258] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2057142258] Install in parallel robbyrussell/oh-my-zsh. PARALLEL
+[WRN][1506625364.2067015171] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506625364.2067015171] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506625364.2072012424] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506625364.2072012424] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506625364.2077345848] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506625364.2077345848] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506625364.2082164288] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2082164288] Install in parallel zdharma/fast-syntax-highlighting. PARALLEL
+[WRN][1506625364.2090566158] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2090566158] Install in parallel zsh-users/zsh-history-substring-search. PARALLEL
+[WRN][1506625364.2099094391] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2099094391] Install in parallel xgarrido/zsh-completions. PARALLEL
+[WRN][1506625364.2107667923] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2107667923] Install in parallel xgarrido/zsh-utilities. PARALLEL
+[WRN][1506625364.2120115757] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2120115757] Install in parallel xgarrido/zsh-aggregator. PARALLEL
+[WRN][1506625364.2158768177] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2158768177] Install in parallel xgarrido/zsh-org-pages. PARALLEL
+[WRN][1506625364.2203130722] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:17
+[WRN][1506625364.2203130722] Install in parallel xgarrido/zsh-themes. PARALLEL
+[WRN][1506625364.2213702202] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506625364.2213702202] Bundle xgarrido/zsh-themes already cloned locally. PARALLEL
+[WRN][1506625366.9450759888] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9450759888] Updated meta: target antigen-bundle mode repeat type pre called 25
+[WRN][1506625366.9452292919] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9452292919] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9453253746] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9453253746] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506625366.9454667568] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9454667568] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1506625366.9455642700] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9455642700] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1506625366.9455642700] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9469244480] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9469244480] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1506625366.9470515251] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9470515251] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9471943378] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9471943378] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506625366.9473922253] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9473922253] Replaced hooked function.
+[LOG][1506625366.9474859238] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9474859238] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9478859901] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9478859901] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1506625366.9480154514] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9480154514] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9481725693] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9481725693] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh
+[WRN][1506625366.9484369755] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9484369755] Replaced hooked function.
+[LOG][1506625366.9485297203] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9485297203] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9486896992] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9486896992] Return from hook antigen-bundle with 0
+[WRN][1506625366.9489266872] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9489266872] Updated meta: target antigen-bundle mode repeat type pre called 26
+[WRN][1506625366.9490311146] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9490311146] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9491157532] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9491157532] Pre hook: antigen-bundle-cached git
+[WRN][1506625366.9492437840] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9492437840] -antigen-hook-antigen-bundle git
+[TRA][1506625366.9493343830] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9493343830] Called antigen-bundle with git BUNDLE
+[TRA][1506625366.9493343830] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9503810406] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9503810406] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1506625366.9504995346] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9504995346] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9506304264] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9506304264] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506625366.9508240223] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9508240223] Replaced hooked function.
+[LOG][1506625366.9509241581] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9509241581] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9511752129] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9511752129] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1506625366.9512817860] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9512817860] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9513957500] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9513957500] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1506625366.9515206814] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9515206814] Replaced hooked function.
+[LOG][1506625366.9516222477] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9516222477] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9517812729] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9517812729] Return from hook antigen-bundle with 0
+[WRN][1506625366.9520153999] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9520153999] Updated meta: target antigen-bundle mode repeat type pre called 27
+[WRN][1506625366.9521172047] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9521172047] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9522001743] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9522001743] Pre hook: antigen-bundle-cached svn
+[WRN][1506625366.9523272514] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9523272514] -antigen-hook-antigen-bundle svn
+[TRA][1506625366.9524159431] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9524159431] Called antigen-bundle with svn BUNDLE
+[TRA][1506625366.9524159431] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9534447193] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9534447193] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1506625366.9535639286] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9535639286] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9536945820] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9536945820] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/svn name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506625366.9538872242] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9538872242] Replaced hooked function.
+[LOG][1506625366.9539775848] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9539775848] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9542281628] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9542281628] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1506625366.9543349743] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9543349743] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9544475079] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9544475079] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn/svn.plugin.zsh
+[WRN][1506625366.9545719624] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9545719624] Replaced hooked function.
+[LOG][1506625366.9546601772] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9546601772] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9548232555] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9548232555] Return from hook antigen-bundle with 0
+[WRN][1506625366.9550564289] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9550564289] Updated meta: target antigen-bundle mode repeat type pre called 28
+[WRN][1506625366.9551579952] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9551579952] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9552416801] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9552416801] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506625366.9553701878] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9553701878] -antigen-hook-antigen-bundle virtualenv
+[TRA][1506625366.9554593563] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9554593563] Called antigen-bundle with virtualenv BUNDLE
+[TRA][1506625366.9554593563] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9565215111] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9565215111] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1506625366.9566402435] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9566402435] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9567711353] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9567711353] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/virtualenv name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506625366.9569654465] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9569654465] Replaced hooked function.
+[LOG][1506625366.9570567608] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9570567608] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9573075771] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9573075771] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1506625366.9574174881] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9574174881] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9575331211] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9575331211] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv/virtualenv.plugin.zsh
+[WRN][1506625366.9576604366] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9576604366] Replaced hooked function.
+[LOG][1506625366.9577481747] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9577481747] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9579021931] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9579021931] Return from hook antigen-bundle with 0
+[WRN][1506625366.9581391811] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9581391811] Updated meta: target antigen-bundle mode repeat type pre called 29
+[WRN][1506625366.9582405090] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9582405090] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9583237171] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9583237171] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506625366.9584550858] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9584550858] -antigen-hook-antigen-bundle zdharma/fast-syntax-highlighting
+[TRA][1506625366.9585461617] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9585461617] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1506625366.9585461617] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9596302509] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9596302509] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1506625366.9597573280] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9597573280] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9598827362] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9598827362] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting btype plugin url https://github.com/zdharma/fast-syntax-highlighting.git loc / name zdharma/fast-syntax-highlighting make_local_clone true
+[WRN][1506625366.9600713253] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9600713253] Replaced hooked function.
+[LOG][1506625366.9601583481] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9601583481] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9603953362] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9603953362] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1506625366.9604997635] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9604997635] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9606084824] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9606084824] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh
+[WRN][1506625366.9607288837] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9607288837] Replaced hooked function.
+[LOG][1506625366.9608123302] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9608123302] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9609611034] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9609611034] Return from hook antigen-bundle with 0
+[WRN][1506625366.9611823559] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9611823559] Updated meta: target antigen-bundle mode repeat type pre called 30
+[WRN][1506625366.9612777233] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9612777233] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9613575935] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9613575935] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506625366.9614808559] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9614808559] -antigen-hook-antigen-bundle zsh-users/zsh-history-substring-search
+[TRA][1506625366.9615674019] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9615674019] Called antigen-bundle with zsh-users/zsh-history-substring-search BUNDLE
+[TRA][1506625366.9615674019] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9625678062] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9625678062] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1506625366.9626767635] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9626767635] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9627993107] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9627993107] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search btype plugin url https://github.com/zsh-users/zsh-history-substring-search.git loc / name zsh-users/zsh-history-substring-search make_local_clone true
+[WRN][1506625366.9629967213] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9629967213] Replaced hooked function.
+[LOG][1506625366.9630837440] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9630837440] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9633209705] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9633209705] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1506625366.9634251595] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9634251595] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9635357857] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9635357857] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search///zsh-history-substring-search.plugin.zsh
+[WRN][1506625366.9636790752] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9636790752] Replaced hooked function.
+[LOG][1506625366.9637720585] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9637720585] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9639213085] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9639213085] Return from hook antigen-bundle with 0
+[WRN][1506625366.9641432762] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9641432762] Updated meta: target antigen-bundle mode repeat type pre called 31
+[WRN][1506625366.9642384052] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9642384052] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9643170834] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9643170834] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506625366.9644389153] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9644389153] -antigen-hook-antigen-bundle xgarrido/zsh-completions
+[TRA][1506625366.9645235538] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9645235538] Called antigen-bundle with xgarrido/zsh-completions BUNDLE
+[TRA][1506625366.9645235538] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9654979706] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9654979706] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1506625366.9656102657] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9656102657] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9657342434] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9657342434] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions btype plugin url https://github.com/xgarrido/zsh-completions.git loc / name xgarrido/zsh-completions make_local_clone true
+[WRN][1506625366.9659209251] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9659209251] Replaced hooked function.
+[LOG][1506625366.9660077095] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9660077095] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9662442207] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9662442207] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1506625366.9663460255] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9663460255] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9664537907] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9664537907] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions///zsh-completions.plugin.zsh
+[WRN][1506625366.9665837288] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9665837288] Replaced hooked function.
+[LOG][1506625366.9666686058] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9666686058] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9668154716] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9668154716] Return from hook antigen-bundle with 0
+[WRN][1506625366.9670362473] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9670362473] Updated meta: target antigen-bundle mode repeat type pre called 32
+[WRN][1506625366.9671320915] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9671320915] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9672110081] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9672110081] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506625366.9673328400] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9673328400] -antigen-hook-antigen-bundle xgarrido/zsh-utilities
+[TRA][1506625366.9674191475] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9674191475] Called antigen-bundle with xgarrido/zsh-utilities BUNDLE
+[TRA][1506625366.9674191475] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9684114456] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9684114456] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1506625366.9685223103] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9685223103] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9686446190] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9686446190] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities btype plugin url https://github.com/xgarrido/zsh-utilities.git loc / name xgarrido/zsh-utilities make_local_clone true
+[WRN][1506625366.9688298702] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9688298702] Replaced hooked function.
+[LOG][1506625366.9689149857] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9689149857] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9691483974] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9691483974] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1506625366.9692482948] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9692482948] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9693541527] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9693541527] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities///init.zsh
+[WRN][1506625366.9694724083] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9694724083] Replaced hooked function.
+[LOG][1506625366.9695551395] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9695551395] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9696993828] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9696993828] Return from hook antigen-bundle with 0
+[WRN][1506625366.9699189663] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9699189663] Updated meta: target antigen-bundle mode repeat type pre called 33
+[WRN][1506625366.9700150490] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9700150490] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9700942039] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9700942039] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506625366.9702167511] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9702167511] -antigen-hook-antigen-bundle xgarrido/zsh-aggregator
+[TRA][1506625366.9703118801] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9703118801] Called antigen-bundle with xgarrido/zsh-aggregator BUNDLE
+[TRA][1506625366.9703118801] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9712870121] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9712870121] Updated meta: target -antigen-load-env mode repeat type replace called 9
+[WRN][1506625366.9713985920] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9713985920] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9715232849] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9715232849] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator btype plugin url https://github.com/xgarrido/zsh-aggregator.git loc / name xgarrido/zsh-aggregator make_local_clone true
+[WRN][1506625366.9717371464] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9717371464] Replaced hooked function.
+[LOG][1506625366.9718215466] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9718215466] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9720425606] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9720425606] Updated meta: target -antigen-load-source mode repeat type replace called 9
+[WRN][1506625366.9721384048] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9721384048] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9722390175] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9722390175] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator///zsh-aggregator.plugin.zsh
+[WRN][1506625366.9723520279] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9723520279] Replaced hooked function.
+[LOG][1506625366.9724342823] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9724342823] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9725732803] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9725732803] Return from hook antigen-bundle with 0
+[WRN][1506625366.9727814198] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9727814198] Updated meta: target antigen-bundle mode repeat type pre called 34
+[WRN][1506625366.9728715420] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9728715420] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9729461670] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9729461670] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506625366.9730620384] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9730620384] -antigen-hook-antigen-bundle xgarrido/zsh-org-pages
+[TRA][1506625366.9731423855] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9731423855] Called antigen-bundle with xgarrido/zsh-org-pages BUNDLE
+[TRA][1506625366.9731423855] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9741020203] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9741020203] Updated meta: target -antigen-load-env mode repeat type replace called 10
+[WRN][1506625366.9742064476] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9742064476] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9743220806] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9743220806] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages btype plugin url https://github.com/xgarrido/zsh-org-pages.git loc / name xgarrido/zsh-org-pages make_local_clone true
+[WRN][1506625366.9745066166] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9745066166] Replaced hooked function.
+[LOG][1506625366.9745907784] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9745907784] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9748122692] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9748122692] Updated meta: target -antigen-load-source mode repeat type replace called 10
+[WRN][1506625366.9749073982] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9749073982] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9750077724] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9750077724] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages///zsh-org-pages.zsh
+[WRN][1506625366.9751222134] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9751222134] Replaced hooked function.
+[LOG][1506625366.9752008915] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9752008915] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9753451347] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9753451347] Return from hook antigen-bundle with 0
+[WRN][1506625366.9755539894] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9755539894] Updated meta: target antigen-bundle mode repeat type pre called 35
+[WRN][1506625366.9756546021] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9756546021] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9757313728] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9757313728] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506625366.9758472443] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9758472443] -antigen-hook-antigen-bundle xgarrido/zsh-themes
+[TRA][1506625366.9759273529] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9759273529] Called antigen-bundle with xgarrido/zsh-themes BUNDLE
+[TRA][1506625366.9759273529] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9768447876] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9768447876] Updated meta: target -antigen-load-env mode repeat type replace called 11
+[WRN][1506625366.9769501686] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9769501686] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9770679474] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9770679474] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes btype plugin url https://github.com/xgarrido/zsh-themes.git loc / name xgarrido/zsh-themes make_local_clone true
+[WRN][1506625366.9772441387] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9772441387] Replaced hooked function.
+[LOG][1506625366.9773252010] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9773252010] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9775454998] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9775454998] Updated meta: target -antigen-load-source mode repeat type replace called 11
+[WRN][1506625366.9776403904] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9776403904] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9777402878] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9777402878] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes///zsh-themes.plugin.zsh
+[WRN][1506625366.9778621197] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9778621197] Replaced hooked function.
+[LOG][1506625366.9779415131] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9779415131] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9780817032] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9780817032] Return from hook antigen-bundle with 0
+[WRN][1506625366.9782907963] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9782907963] Updated meta: target antigen-bundle mode repeat type pre called 36
+[WRN][1506625366.9783809185] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9783809185] Processing hooks: antigen-bundle-cached
+[WRN][1506625366.9784557819] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506625366.9784557819] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506625366.9785733223] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9785733223] -antigen-hook-antigen-bundle xgarrido/zsh-themes nemo --btype=theme
+[TRA][1506625366.9786548615] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506625366.9786548615] Called antigen-bundle with xgarrido/zsh-themes nemo --btype=theme BUNDLE
+[TRA][1506625366.9786548615] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506625366.9796838760] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9796838760] Updated meta: target -antigen-load-env mode repeat type replace called 12
+[WRN][1506625366.9797930717] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9797930717] Processing hooks: -antigen-load-env-cached
+[WRN][1506625366.9799103737] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9799103737] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes btype theme url https://github.com/xgarrido/zsh-themes.git loc nemo.zsh-theme name xgarrido/zsh-themes make_local_clone true
+[WRN][1506625366.9800875187] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9800875187] Replaced hooked function.
+[LOG][1506625366.9801683426] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9801683426] Return from hook -antigen-load-env with 0
+[WRN][1506625366.9803850651] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506625366.9803850651] Updated meta: target -antigen-load-source mode repeat type replace called 12
+[WRN][1506625366.9804799557] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9804799557] Processing hooks: -antigen-load-source-cached
+[WRN][1506625366.9805791378] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506625366.9805791378] Replace hook: -antigen-load-source-cached
+[WRN][1506625366.9806876183] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625366.9806876183] Replaced hooked function.
+[LOG][1506625366.9807665348] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9807665348] Return from hook -antigen-load-source with 0
+[LOG][1506625366.9809088707] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625366.9809088707] Return from hook antigen-bundle with 0
+[WRN][1506625366.9810075760] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:48
+[WRN][1506625366.9810075760] Parallel install done PARALLEL
+[WRN][1506625366.9813117981] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625366.9813117981] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1506625366.9814162254] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625366.9814162254] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1506625366.9815156460] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625366.9815156460] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1506625366.9816234112] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506625366.9816234112] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1506625366.9816989899] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506625366.9816989899] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1506625366.9817841053] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506625366.9817841053] -antigen-hook-antigen-apply 
+[LOG][1506625366.9818596840] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[LOG][1506625366.9818596840] Called antigen-apply
+[TRA][1506625366.9819281101] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:3
+[TRA][1506625366.9819281101] Gonna create compdump file @ apply COMPDUMP
+[TRA][1506625366.9819281101] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[LOG][1506625367.2276701927] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625367.2276701927] Return from hook antigen-apply with 0
+[WRN][1506625367.2277879715] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506625367.2277879715] Replaced hooked function.
+[WRN][1506625367.2278323174] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1495
+[WRN][1506625367.2278323174] Post hook: antigen-apply-lock
+[WRN][1506625367.2278738022] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:22
+[WRN][1506625367.2278738022] Freeing antigen-lock file at /home/cloe/.config/zsh/antigen-repo/.lock
+[WRN][1506625367.2291066647] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1495
+[WRN][1506625367.2291066647] Post hook: antigen-apply-cached
+[LOG][1506625367.2294020653] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1769
+[LOG][1506625367.2294020653] Gonna generate cache for /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn/svn.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv/virtualenv.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting// /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search// /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search///zsh-history-substring-search.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions///zsh-completions.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities///init.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator///zsh-aggregator.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages///zsh-org-pages.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes///zsh-themes.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes/nemo.zsh-theme
+[LOG][1506625367.4420590401] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625367.4420590401] Return from hook antigen-apply with 0
+[LOG][1506625367.4421710968] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506625367.4421710968] Return from hook antigen with 0
+[WRN][1506751492.2284305096] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506751492.2284305096] -antigen-interactive-mode: toplevel:shfunc:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1506751492.2292795181] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:455
+[TRA][1506751492.2292795181] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1506751492.2292795181] TRACE
+-antigen-env-setup
+/home/cloe/.config/zsh/antigen/bin/antigen.zsh
+/home/cloe/.config/zsh/antigen/antigen.zsh
+antigen
+[WRN][1506850923.8049168587] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850923.8049168587] -antigen-interactive-mode: toplevel:shfunc:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1506850923.8286452293] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:455
+[TRA][1506850923.8286452293] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1506850923.8286452293] TRACE
+-antigen-env-setup
+/home/cloe/.config/zsh/antigen/bin/antigen.zsh
+/home/cloe/.config/zsh/antigen/antigen.zsh
+antigen
+[WRN][1506850951.4409680367] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850951.4409680367] -antigen-interactive-mode: toplevel:shfunc:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1506850951.4411213398] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:455
+[TRA][1506850951.4411213398] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1506850951.4411213398] TRACE
+-antigen-env-setup
+/home/cloe/.config/zsh/antigen/bin/antigen.zsh
+/home/cloe/.config/zsh/antigen/antigen.zsh
+antigen
+[WRN][1506850960.4673647881] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850960.4673647881] -antigen-interactive-mode: file:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506850960.4678213596] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506850960.4678213596] -antigen-lock-init return code was 0
+[LOG][1506850960.4679112434] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506850960.4679112434] LOADED EXTENSION lock EXT
+[WRN][1506850960.4697933197] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1666
+[WRN][1506850960.4697933197] Init parallel extension PARALLEL
+[WRN][1506850960.4699168205] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850960.4699168205] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506850960.4700353146] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506850960.4700353146] -antigen-parallel-init return code was 0
+[LOG][1506850960.4701123238] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506850960.4701123238] LOADED EXTENSION parallel EXT
+[WRN][1506850960.4702081680] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1674
+[WRN][1506850960.4702081680] Exec parallel extension PARALLEL
+[WRN][1506850960.4706058502] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850960.4706058502] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506850960.4707162380] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506850960.4707162380] -antigen-defer-init return code was 0
+[LOG][1506850960.4707911015] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506850960.4707911015] LOADED EXTENSION defer EXT
+[WRN][1506850960.4720249176] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:246
+[WRN][1506850960.4720249176] -antigen-interactive-mode: file:file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1506850960.4723367691] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1554
+[WRN][1506850960.4723367691] -antigen-cache-init return code was 0
+[LOG][1506850960.4724209309] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1556
+[LOG][1506850960.4724209309] LOADED EXTENSION cache EXT
+[WRN][1506850960.4747149944] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4747149944] Updated meta: target antigen mode once type pre called 1
+[WRN][1506850960.4748356342] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4748356342] Processing hooks: antigen-lock
+[WRN][1506850960.4749178886] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4749178886] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1506850960.4749984741] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:4
+[LOG][1506850960.4749984741] antigen-lock called
+[WRN][1506850960.4750854969] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:15
+[WRN][1506850960.4750854969] Creating antigen-lock file at /home/cloe/.config/zsh/antigen-repo/.lock
+[WRN][1506850960.4782798290] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4782798290] -antigen-hook-antigen use oh-my-zsh
+[WRN][1506850960.4804835320] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4804835320] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1506850960.4806582928] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4806582928] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1506850960.4807546139] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4807546139] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4808306694] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4808306694] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506850960.4809572697] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4809572697] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1506850960.4810609818] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4810609818] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4812040329] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4812040329] Return from hook antigen with 0
+[WRN][1506850960.4814271927] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4814271927] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4815022945] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4815022945] Processing hooks: antigen-lock
+[WRN][1506850960.4815843105] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4815843105] -antigen-hook-antigen bundle git
+[WRN][1506850960.4817917347] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4817917347] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1506850960.4819269180] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4819269180] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1506850960.4820113182] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4820113182] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4820919037] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4820919037] Pre hook: antigen-bundle-cached git
+[WRN][1506850960.4822113514] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4822113514] Replace hook: antigen-bundle-defer git
+[WRN][1506850960.4823071957] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4823071957] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4824194908] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4824194908] Return from hook antigen with 0
+[WRN][1506850960.4826099873] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4826099873] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4826822281] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4826822281] Processing hooks: antigen-lock
+[WRN][1506850960.4827620983] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4827620983] -antigen-hook-antigen bundle svn
+[WRN][1506850960.4829661846] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4829661846] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1506850960.4830999374] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4830999374] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1506850960.4831836224] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4831836224] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4832539558] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4832539558] Pre hook: antigen-bundle-cached svn
+[WRN][1506850960.4833688736] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4833688736] Replace hook: antigen-bundle-defer svn
+[WRN][1506850960.4834649563] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4834649563] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4835908413] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4835908413] Return from hook antigen with 0
+[WRN][1506850960.4837872982] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4837872982] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4838595390] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4838595390] Processing hooks: antigen-lock
+[WRN][1506850960.4839396477] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4839396477] -antigen-hook-antigen bundle virtualenv
+[WRN][1506850960.4841437340] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4841437340] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1506850960.4842774868] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4842774868] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1506850960.4843618870] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4843618870] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4844322205] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4844322205] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506850960.4845483303] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4845483303] Replace hook: antigen-bundle-defer virtualenv
+[WRN][1506850960.4846446514] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4846446514] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4847569466] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4847569466] Return from hook antigen with 0
+[WRN][1506850960.4849662781] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4849662781] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4850382805] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4850382805] Processing hooks: antigen-lock
+[WRN][1506850960.4851272106] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4851272106] -antigen-hook-antigen bundle zdharma/fast-syntax-highlighting
+[WRN][1506850960.4853334427] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4853334427] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1506850960.4854679108] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4854679108] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1506850960.4855511189] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4855511189] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4856221676] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4856221676] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506850960.4857404232] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4857404232] Replace hook: antigen-bundle-defer zdharma/fast-syntax-highlighting
+[WRN][1506850960.4858381748] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4858381748] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4859492779] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4859492779] Return from hook antigen with 0
+[WRN][1506850960.4861624241] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4861624241] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4862349033] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4862349033] Processing hooks: antigen-lock
+[WRN][1506850960.4863150120] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4863150120] -antigen-hook-antigen bundle zsh-users/zsh-history-substring-search
+[WRN][1506850960.4865195751] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4865195751] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1506850960.4866538048] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4866538048] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1506850960.4867370129] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4867370129] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4868097305] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4868097305] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506850960.4869282246] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4869282246] Replace hook: antigen-bundle-defer zsh-users/zsh-history-substring-search
+[WRN][1506850960.4870259762] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4870259762] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4871380329] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4871380329] Return from hook antigen with 0
+[WRN][1506850960.4873402119] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4873402119] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4874117374] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4874117374] Processing hooks: antigen-lock
+[WRN][1506850960.4874911308] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4874911308] -antigen-hook-antigen bundle xgarrido/zsh-completions
+[WRN][1506850960.4877145290] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4877145290] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1506850960.4878499508] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4878499508] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1506850960.4879338741] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4879338741] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4880053997] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4880053997] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506850960.4881324768] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4881324768] Replace hook: antigen-bundle-defer xgarrido/zsh-completions
+[WRN][1506850960.4882318974] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4882318974] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4883427620] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4883427620] Return from hook antigen with 0
+[WRN][1506850960.4885461330] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4885461330] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4886176586] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4886176586] Processing hooks: antigen-lock
+[WRN][1506850960.4886970520] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4886970520] -antigen-hook-antigen bundle xgarrido/zsh-utilities
+[WRN][1506850960.4889011383] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4889011383] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1506850960.4890351295] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4890351295] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1506850960.4891180992] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4891180992] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4891881943] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4891881943] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506850960.4893066883] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4893066883] Replace hook: antigen-bundle-defer xgarrido/zsh-utilities
+[WRN][1506850960.4894044399] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4894044399] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4895157814] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4895157814] Return from hook antigen with 0
+[WRN][1506850960.4897201061] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4897201061] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4897921085] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4897921085] Processing hooks: antigen-lock
+[WRN][1506850960.4898719788] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4898719788] -antigen-hook-antigen bundle xgarrido/zsh-aggregator
+[WRN][1506850960.4900746346] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4900746346] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1506850960.4902069569] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4902069569] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1506850960.4902901649] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4902901649] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4903609753] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4903609753] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506850960.4904792309] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4904792309] Replace hook: antigen-bundle-defer xgarrido/zsh-aggregator
+[WRN][1506850960.4905767441] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4905767441] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4906883240] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4906883240] Return from hook antigen with 0
+[WRN][1506850960.4908905029] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4908905029] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4909625053] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4909625053] Processing hooks: antigen-lock
+[WRN][1506850960.4910418987] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4910418987] -antigen-hook-antigen bundle xgarrido/zsh-org-pages
+[WRN][1506850960.4912538528] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4912538528] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1506850960.4913880825] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4913880825] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1506850960.4914717674] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4914717674] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4915423393] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4915423393] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506850960.4916932583] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4916932583] Replace hook: antigen-bundle-defer xgarrido/zsh-org-pages
+[WRN][1506850960.4917869568] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4917869568] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4918928146] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4918928146] Return from hook antigen with 0
+[WRN][1506850960.4920854568] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4920854568] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4921536446] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4921536446] Processing hooks: antigen-lock
+[WRN][1506850960.4922289848] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4922289848] -antigen-hook-antigen bundle xgarrido/zsh-themes
+[WRN][1506850960.4924221039] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4924221039] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1506850960.4925489426] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4925489426] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1506850960.4926283360] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4926283360] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4926943779] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4926943779] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506850960.4928057194] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4928057194] Replace hook: antigen-bundle-defer xgarrido/zsh-themes
+[WRN][1506850960.4928982258] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4928982258] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4930038452] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4930038452] Return from hook antigen with 0
+[WRN][1506850960.4931895733] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4931895733] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4932577610] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4932577610] Processing hooks: antigen-lock
+[WRN][1506850960.4933340549] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4933340549] -antigen-hook-antigen theme xgarrido/zsh-themes nemo
+[WRN][1506850960.4954445362] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4954445362] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1506850960.4956333637] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4956333637] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1506850960.4957287312] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4957287312] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1506850960.4958031178] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4958031178] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506850960.4959328175] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4959328175] Replace hook: antigen-bundle-defer xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506850960.4960439205] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1482
+[WRN][1506850960.4960439205] antigen-bundle-defer shortcircuited
+[LOG][1506850960.4961876869] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4961876869] Return from hook antigen with 0
+[WRN][1506850960.4963924885] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.4963924885] Ignoring hook due to mode once: antigen-lock
+[WRN][1506850960.4964640141] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4964640141] Processing hooks: antigen-lock
+[WRN][1506850960.4965405464] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.4965405464] -antigen-hook-antigen apply
+[WRN][1506850960.4967474937] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4967474937] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1506850960.4968788624] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4968788624] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1506850960.4970057011] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4970057011] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1506850960.4971315861] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4971315861] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1506850960.4972548485] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4972548485] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1506850960.4973371029] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4973371029] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1506850960.4974074364] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4974074364] Pre hook: antigen-apply-parallel
+[WRN][1506850960.4974784851] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:53
+[WRN][1506850960.4974784851] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1506850960.4976623058] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4976623058] Pre hook: antigen-apply-defer
+[WRN][1506850960.4977345467] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:10
+[WRN][1506850960.4977345467] Defer pre-apply DEFER PRE-APPLY
+[LOG][1506850960.4979364872] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.4979364872] Processing deferred bundle: --loc=lib DEFER
+[WRN][1506850960.4981102943] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4981102943] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1506850960.4982414246] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4982414246] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1506850960.4983241558] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4983241558] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.4983930588] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4983930588] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506850960.4985108376] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4985108376] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1506850960.4985890388] /home/cloe/.zshrc:5
+[TRA][1506850960.4985890388] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1506850960.4985890388] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.4986841679] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.4986841679] Replaced hooked function.
+[LOG][1506850960.4987547398] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4987547398] Return from hook antigen-bundle with 0
+[LOG][1506850960.4988548756] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.4988548756] Processing deferred bundle: git DEFER
+[WRN][1506850960.4990217686] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4990217686] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1506850960.4991478920] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4991478920] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1506850960.4992294312] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.4992294312] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.4992985725] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.4992985725] Pre hook: antigen-bundle-cached git
+[WRN][1506850960.4994122982] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.4994122982] Replace hook: antigen-bundle-parallel git
+[TRA][1506850960.4994866848] /home/cloe/.zshrc:5
+[TRA][1506850960.4994866848] antigen-bundle-parallel: git PARALLEL
+[TRA][1506850960.4994866848] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.4995989799] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.4995989799] Replaced hooked function.
+[LOG][1506850960.4996716976] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.4996716976] Return from hook antigen-bundle with 0
+[LOG][1506850960.4997615814] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.4997615814] Processing deferred bundle: svn DEFER
+[WRN][1506850960.4999248981] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.4999248981] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1506850960.5000493526] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5000493526] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1506850960.5001299381] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5001299381] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5001986027] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5001986027] Pre hook: antigen-bundle-cached svn
+[WRN][1506850960.5003116131] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5003116131] Replace hook: antigen-bundle-parallel svn
+[TRA][1506850960.5003855228] /home/cloe/.zshrc:5
+[TRA][1506850960.5003855228] antigen-bundle-parallel: svn PARALLEL
+[TRA][1506850960.5003855228] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5004773140] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5004773140] Replaced hooked function.
+[LOG][1506850960.5005462170] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5005462170] Return from hook antigen-bundle with 0
+[LOG][1506850960.5006363392] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5006363392] Processing deferred bundle: virtualenv DEFER
+[WRN][1506850960.5007989407] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5007989407] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1506850960.5009233952] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5009233952] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1506850960.5010046959] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5010046959] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5010731220] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5010731220] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506850960.5011954308] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5011954308] Replace hook: antigen-bundle-parallel virtualenv
+[TRA][1506850960.5012705326] /home/cloe/.zshrc:5
+[TRA][1506850960.5012705326] antigen-bundle-parallel: virtualenv PARALLEL
+[TRA][1506850960.5012705326] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5013630390] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5013630390] Replaced hooked function.
+[LOG][1506850960.5014319420] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5014319420] Return from hook antigen-bundle with 0
+[LOG][1506850960.5015215874] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5015215874] Processing deferred bundle: zdharma/fast-syntax-highlighting DEFER
+[WRN][1506850960.5016858578] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5016858578] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1506850960.5018115044] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5018115044] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1506850960.5018923283] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5018923283] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5019619465] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5019619465] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506850960.5020775795] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5020775795] Replace hook: antigen-bundle-parallel zdharma/fast-syntax-highlighting
+[TRA][1506850960.5021533966] /home/cloe/.zshrc:5
+[TRA][1506850960.5021533966] antigen-bundle-parallel: zdharma/fast-syntax-highlighting PARALLEL
+[TRA][1506850960.5021533966] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5022497177] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5022497177] Replaced hooked function.
+[LOG][1506850960.5023183823] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5023183823] Return from hook antigen-bundle with 0
+[LOG][1506850960.5024082661] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5024082661] Processing deferred bundle: zsh-users/zsh-history-substring-search DEFER
+[WRN][1506850960.5025734901] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5025734901] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1506850960.5026974678] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5026974678] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1506850960.5027787685] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5027787685] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5028476715] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5028476715] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506850960.5029633045] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5029633045] Replace hook: antigen-bundle-parallel zsh-users/zsh-history-substring-search
+[TRA][1506850960.5030391216] /home/cloe/.zshrc:5
+[TRA][1506850960.5030391216] antigen-bundle-parallel: zsh-users/zsh-history-substring-search PARALLEL
+[TRA][1506850960.5030391216] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5031349659] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5031349659] Replaced hooked function.
+[LOG][1506850960.5032117367] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5032117367] Return from hook antigen-bundle with 0
+[LOG][1506850960.5033028126] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5033028126] Processing deferred bundle: xgarrido/zsh-completions DEFER
+[WRN][1506850960.5034673214] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5034673214] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1506850960.5036101341] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5036101341] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1506850960.5036892891] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5036892891] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5037562847] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5037562847] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506850960.5038666725] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5038666725] Replace hook: antigen-bundle-parallel xgarrido/zsh-completions
+[TRA][1506850960.5039389133] /home/cloe/.zshrc:5
+[TRA][1506850960.5039389133] antigen-bundle-parallel: xgarrido/zsh-completions PARALLEL
+[TRA][1506850960.5039389133] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5040309429] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5040309429] Replaced hooked function.
+[LOG][1506850960.5040967464] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5040967464] Return from hook antigen-bundle with 0
+[LOG][1506850960.5041813850] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5041813850] Processing deferred bundle: xgarrido/zsh-utilities DEFER
+[WRN][1506850960.5043373108] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5043373108] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1506850960.5044560432] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5044560432] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1506850960.5045332909] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5045332909] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5045990944] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5045990944] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506850960.5047078133] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5047078133] Replace hook: antigen-bundle-parallel xgarrido/zsh-utilities
+[TRA][1506850960.5047795773] /home/cloe/.zshrc:5
+[TRA][1506850960.5047795773] antigen-bundle-parallel: xgarrido/zsh-utilities PARALLEL
+[TRA][1506850960.5047795773] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5048706532] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5048706532] Replaced hooked function.
+[LOG][1506850960.5049359798] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5049359798] Return from hook antigen-bundle with 0
+[LOG][1506850960.5050208569] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5050208569] Processing deferred bundle: xgarrido/zsh-aggregator DEFER
+[WRN][1506850960.5051760674] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5051760674] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1506850960.5052943230] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5052943230] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1506850960.5053720474] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5053720474] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5054447651] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5054447651] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506850960.5055551529] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5055551529] Replace hook: antigen-bundle-parallel xgarrido/zsh-aggregator
+[TRA][1506850960.5056262016] /home/cloe/.zshrc:5
+[TRA][1506850960.5056262016] antigen-bundle-parallel: xgarrido/zsh-aggregator PARALLEL
+[TRA][1506850960.5056262016] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5057172775] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5057172775] Replaced hooked function.
+[LOG][1506850960.5057821274] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5057821274] Return from hook antigen-bundle with 0
+[LOG][1506850960.5058677197] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5058677197] Processing deferred bundle: xgarrido/zsh-org-pages DEFER
+[WRN][1506850960.5060234070] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5060234070] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1506850960.5061433315] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5061433315] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1506850960.5062203407] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5062203407] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5062854290] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5062854290] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506850960.5063941479] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5063941479] Replace hook: antigen-bundle-parallel xgarrido/zsh-org-pages
+[TRA][1506850960.5064651966] /home/cloe/.zshrc:5
+[TRA][1506850960.5064651966] antigen-bundle-parallel: xgarrido/zsh-org-pages PARALLEL
+[TRA][1506850960.5064651966] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5065553188] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5065553188] Replaced hooked function.
+[LOG][1506850960.5066208839] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5066208839] Return from hook antigen-bundle with 0
+[LOG][1506850960.5067055225] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5067055225] Processing deferred bundle: xgarrido/zsh-themes DEFER
+[WRN][1506850960.5068607330] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5068607330] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1506850960.5069780350] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5069780350] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1506850960.5070548058] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5070548058] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5071198940] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5071198940] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506850960.5072286129] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5072286129] Replace hook: antigen-bundle-parallel xgarrido/zsh-themes
+[TRA][1506850960.5073006153] /home/cloe/.zshrc:5
+[TRA][1506850960.5073006153] antigen-bundle-parallel: xgarrido/zsh-themes PARALLEL
+[TRA][1506850960.5073006153] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5073988438] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5073988438] Replaced hooked function.
+[LOG][1506850960.5074646473] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5074646473] Return from hook antigen-bundle with 0
+[LOG][1506850960.5075497627] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:16
+[LOG][1506850960.5075497627] Processing deferred bundle: xgarrido/zsh-themes nemo --btype=theme DEFER
+[WRN][1506850960.5077288151] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5077288151] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1506850960.5078482628] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5078482628] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1506850960.5079255104] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5079255104] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1506850960.5079908371] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5079908371] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506850960.5081009865] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5081009865] Replace hook: antigen-bundle-parallel xgarrido/zsh-themes nemo --btype=theme
+[TRA][1506850960.5081729889] /home/cloe/.zshrc:5
+[TRA][1506850960.5081729889] antigen-bundle-parallel: xgarrido/zsh-themes nemo --btype=theme PARALLEL
+[TRA][1506850960.5081729889] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5082650185] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5082650185] Replaced hooked function.
+[LOG][1506850960.5083303452] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5083303452] Return from hook antigen-bundle with 0
+[WRN][1506850960.5084486008] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5084486008] Replace hook: antigen-apply-parallel-execute
+[WRN][1506850960.5085167885] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:65
+[WRN][1506850960.5085167885] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1506850960.5086874962] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:4
+[WRN][1506850960.5086874962] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1506850960.5087602139] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:8
+[WRN][1506850960.5087602139] Gonna install in parallel 12 bundles. PARALLEL
+[WRN][1506850960.5088236332] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:10
+[WRN][1506850960.5088236332] --loc=lib git svn virtualenv zdharma/fast-syntax-highlighting zsh-users/zsh-history-substring-search xgarrido/zsh-completions xgarrido/zsh-utilities xgarrido/zsh-aggregator xgarrido/zsh-org-pages xgarrido/zsh-themes xgarrido/zsh-themes nemo --btype=theme PARALLEL
+[WRN][1506850960.5093808174] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5093808174] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506850960.5098874569] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5098874569] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506850960.5103754997] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5103754997] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506850960.5108649731] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5108649731] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1506850960.5113704205] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5113704205] Bundle zdharma/fast-syntax-highlighting already cloned locally. PARALLEL
+[WRN][1506850960.5118865967] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5118865967] Bundle zsh-users/zsh-history-substring-search already cloned locally. PARALLEL
+[WRN][1506850960.5123827457] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5123827457] Bundle xgarrido/zsh-completions already cloned locally. PARALLEL
+[WRN][1506850960.5128655434] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5128655434] Bundle xgarrido/zsh-utilities already cloned locally. PARALLEL
+[WRN][1506850960.5133488178] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5133488178] Bundle xgarrido/zsh-aggregator already cloned locally. PARALLEL
+[WRN][1506850960.5138301849] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5138301849] Bundle xgarrido/zsh-org-pages already cloned locally. PARALLEL
+[WRN][1506850960.5143065453] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5143065453] Bundle xgarrido/zsh-themes already cloned locally. PARALLEL
+[WRN][1506850960.5148687363] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:24
+[WRN][1506850960.5148687363] Bundle xgarrido/zsh-themes already cloned locally. PARALLEL
+[WRN][1506850960.5151073933] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5151073933] Updated meta: target antigen-bundle mode repeat type pre called 25
+[WRN][1506850960.5151951313] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5151951313] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5152657032] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5152657032] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1506850960.5153701305] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5153701305] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1506850960.5154438019] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5154438019] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1506850960.5154438019] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5164210796] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5164210796] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1506850960.5165126324] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5165126324] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5166149139] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5166149139] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506850960.5167596340] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5167596340] Replaced hooked function.
+[LOG][1506850960.5168290138] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5168290138] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5170993805] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5170993805] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1506850960.5171806812] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5171806812] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5172922611] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5172922611] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh
+[WRN][1506850960.5174908638] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5174908638] Replaced hooked function.
+[LOG][1506850960.5175600052] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5175600052] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5176763535] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5176763535] Return from hook antigen-bundle with 0
+[WRN][1506850960.5178513527] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5178513527] Updated meta: target antigen-bundle mode repeat type pre called 26
+[WRN][1506850960.5179271698] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5179271698] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5179896355] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5179896355] Pre hook: antigen-bundle-cached git
+[WRN][1506850960.5180847645] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5180847645] -antigen-hook-antigen-bundle git
+[TRA][1506850960.5181517601] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5181517601] Called antigen-bundle with git BUNDLE
+[TRA][1506850960.5181517601] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5189049244] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5189049244] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1506850960.5189933777] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5189933777] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5190906525] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5190906525] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506850960.5192341805] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5192341805] Replaced hooked function.
+[LOG][1506850960.5193018913] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5193018913] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5194861889] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5194861889] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1506850960.5195746422] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5195746422] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5196633339] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5196633339] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1506850960.5197579861] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5197579861] Replaced hooked function.
+[LOG][1506850960.5198321342] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5198321342] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5199513435] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5199513435] Return from hook antigen-bundle with 0
+[WRN][1506850960.5201256275] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5201256275] Updated meta: target antigen-bundle mode repeat type pre called 27
+[WRN][1506850960.5202019215] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5202019215] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5202651024] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5202651024] Pre hook: antigen-bundle-cached svn
+[WRN][1506850960.5203599930] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5203599930] -antigen-hook-antigen-bundle svn
+[TRA][1506850960.5204267502] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5204267502] Called antigen-bundle with svn BUNDLE
+[TRA][1506850960.5204267502] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5211777687] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5211777687] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1506850960.5212659836] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5212659836] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5213634968] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5213634968] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/svn name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506850960.5215058327] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5215058327] Replaced hooked function.
+[LOG][1506850960.5215735435] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5215735435] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5217578411] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5217578411] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1506850960.5218381882] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5218381882] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5219235420] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5219235420] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn/svn.plugin.zsh
+[WRN][1506850960.5220167637] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5220167637] Replaced hooked function.
+[LOG][1506850960.5220823288] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5220823288] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5221951008] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5221951008] Return from hook antigen-bundle with 0
+[WRN][1506850960.5223677158] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5223677158] Updated meta: target antigen-bundle mode repeat type pre called 28
+[WRN][1506850960.5224423409] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5224423409] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5225055218] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5225055218] Pre hook: antigen-bundle-cached virtualenv
+[WRN][1506850960.5226013660] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5226013660] -antigen-hook-antigen-bundle virtualenv
+[TRA][1506850960.5226678848] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5226678848] Called antigen-bundle with virtualenv BUNDLE
+[TRA][1506850960.5226678848] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5234289169] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5234289169] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1506850960.5235157013] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5235157013] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5236206055] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5236206055] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/virtualenv name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1506850960.5237650871] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5237650871] Replaced hooked function.
+[LOG][1506850960.5238325596] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5238325596] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5240163803] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5240163803] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1506850960.5240981579] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5240981579] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5241847038] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5241847038] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv/virtualenv.plugin.zsh
+[WRN][1506850960.5242788792] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5242788792] Replaced hooked function.
+[LOG][1506850960.5243482590] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5243482590] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5244634151] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5244634151] Return from hook antigen-bundle with 0
+[WRN][1506850960.5246365070] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5246365070] Updated meta: target antigen-bundle mode repeat type pre called 29
+[WRN][1506850960.5247120857] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5247120857] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5247747898] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5247747898] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1506850960.5248727798] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5248727798] -antigen-hook-antigen-bundle zdharma/fast-syntax-highlighting
+[TRA][1506850960.5249404907] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5249404907] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1506850960.5249404907] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5257077217] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5257077217] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1506850960.5257954597] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5257954597] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5258939266] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5258939266] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting btype plugin url https://github.com/zdharma/fast-syntax-highlighting.git loc / name zdharma/fast-syntax-highlighting make_local_clone true
+[WRN][1506850960.5260472298] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5260472298] Replaced hooked function.
+[LOG][1506850960.5261170864] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5261170864] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5263020992] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5263020992] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1506850960.5263841152] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5263841152] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5264708996] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5264708996] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh
+[WRN][1506850960.5265665054] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5265665054] Replaced hooked function.
+[LOG][1506850960.5266318321] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5266318321] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5267496109] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5267496109] Return from hook antigen-bundle with 0
+[WRN][1506850960.5269231796] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5269231796] Updated meta: target antigen-bundle mode repeat type pre called 30
+[WRN][1506850960.5269987583] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5269987583] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5270624161] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5270624161] Pre hook: antigen-bundle-cached zsh-users/zsh-history-substring-search
+[WRN][1506850960.5271604061] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5271604061] -antigen-hook-antigen-bundle zsh-users/zsh-history-substring-search
+[TRA][1506850960.5272285938] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5272285938] Called antigen-bundle with zsh-users/zsh-history-substring-search BUNDLE
+[TRA][1506850960.5272285938] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5280179977] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5280179977] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1506850960.5281021595] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5281021595] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5281953812] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5281953812] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search btype plugin url https://github.com/zsh-users/zsh-history-substring-search.git loc / name zsh-users/zsh-history-substring-search make_local_clone true
+[WRN][1506850960.5283353329] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5283353329] Replaced hooked function.
+[LOG][1506850960.5284020901] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5284020901] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5285789967] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5285789967] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1506850960.5286574364] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5286574364] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5287396908] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5287396908] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search///zsh-history-substring-search.plugin.zsh
+[WRN][1506850960.5288398266] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5288398266] Replaced hooked function.
+[LOG][1506850960.5289041996] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5289041996] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5290148258] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5290148258] Return from hook antigen-bundle with 0
+[WRN][1506850960.5291810036] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5291810036] Updated meta: target antigen-bundle mode repeat type pre called 31
+[WRN][1506850960.5292525291] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5292525291] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5293121338] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5293121338] Pre hook: antigen-bundle-cached xgarrido/zsh-completions
+[WRN][1506850960.5294039249] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5294039249] -antigen-hook-antigen-bundle xgarrido/zsh-completions
+[TRA][1506850960.5294682980] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5294682980] Called antigen-bundle with xgarrido/zsh-completions BUNDLE
+[TRA][1506850960.5294682980] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5301952362] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5301952362] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1506850960.5302774906] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5302774906] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5303702354] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5303702354] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions btype plugin url https://github.com/xgarrido/zsh-completions.git loc / name xgarrido/zsh-completions make_local_clone true
+[WRN][1506850960.5305075645] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5305075645] Replaced hooked function.
+[LOG][1506850960.5305738449] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5305738449] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5307493210] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5307493210] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1506850960.5308256149] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5308256149] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5309076309] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5309076309] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions///zsh-completions.plugin.zsh
+[WRN][1506850960.5310010910] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5310010910] Replaced hooked function.
+[LOG][1506850960.5310642719] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5310642719] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5311748981] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5311748981] Return from hook antigen-bundle with 0
+[WRN][1506850960.5313401222] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5313401222] Updated meta: target antigen-bundle mode repeat type pre called 32
+[WRN][1506850960.5314116478] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5314116478] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5314719677] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5314719677] Pre hook: antigen-bundle-cached xgarrido/zsh-utilities
+[WRN][1506850960.5315799713] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5315799713] -antigen-hook-antigen-bundle xgarrido/zsh-utilities
+[TRA][1506850960.5316481590] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5316481590] Called antigen-bundle with xgarrido/zsh-utilities BUNDLE
+[TRA][1506850960.5316481590] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5323801041] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5323801041] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1506850960.5324633121] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5324633121] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5325562954] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5325562954] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities btype plugin url https://github.com/xgarrido/zsh-utilities.git loc / name xgarrido/zsh-utilities make_local_clone true
+[WRN][1506850960.5326950550] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5326950550] Replaced hooked function.
+[LOG][1506850960.5327618122] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5327618122] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5329360962] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5329360962] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1506850960.5330126286] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5330126286] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5330934525] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5330934525] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities///init.zsh
+[WRN][1506850960.5331835747] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5331835747] Replaced hooked function.
+[LOG][1506850960.5332465172] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5332465172] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5333557129] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5333557129] Return from hook antigen-bundle with 0
+[WRN][1506850960.5335216522] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5335216522] Updated meta: target antigen-bundle mode repeat type pre called 33
+[WRN][1506850960.5335943699] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5335943699] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5336546898] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5336546898] Pre hook: antigen-bundle-cached xgarrido/zsh-aggregator
+[WRN][1506850960.5337469578] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5337469578] -antigen-hook-antigen-bundle xgarrido/zsh-aggregator
+[TRA][1506850960.5338118076] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5338118076] Called antigen-bundle with xgarrido/zsh-aggregator BUNDLE
+[TRA][1506850960.5338118076] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5345346928] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5345346928] Updated meta: target -antigen-load-env mode repeat type replace called 9
+[WRN][1506850960.5346169472] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5346169472] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5347089767] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5347089767] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator btype plugin url https://github.com/xgarrido/zsh-aggregator.git loc / name xgarrido/zsh-aggregator make_local_clone true
+[WRN][1506850960.5348546505] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5348546505] Replaced hooked function.
+[LOG][1506850960.5349216461] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5349216461] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5350966454] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5350966454] Updated meta: target -antigen-load-source mode repeat type replace called 9
+[WRN][1506850960.5351736546] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5351736546] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5352554321] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5352554321] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator///zsh-aggregator.plugin.zsh
+[WRN][1506850960.5353467464] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5353467464] Replaced hooked function.
+[LOG][1506850960.5354096889] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5354096889] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5355195999] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5355195999] Return from hook antigen-bundle with 0
+[WRN][1506850960.5356924534] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5356924534] Updated meta: target antigen-bundle mode repeat type pre called 34
+[WRN][1506850960.5357658863] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5357658863] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5358257294] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5358257294] Pre hook: antigen-bundle-cached xgarrido/zsh-org-pages
+[WRN][1506850960.5359175205] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5359175205] -antigen-hook-antigen-bundle xgarrido/zsh-org-pages
+[TRA][1506850960.5359821320] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5359821320] Called antigen-bundle with xgarrido/zsh-org-pages BUNDLE
+[TRA][1506850960.5359821320] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5367481709] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5367481709] Updated meta: target -antigen-load-env mode repeat type replace called 10
+[WRN][1506850960.5368325710] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5368325710] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5369267464] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5369267464] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages btype plugin url https://github.com/xgarrido/zsh-org-pages.git loc / name xgarrido/zsh-org-pages make_local_clone true
+[WRN][1506850960.5370666981] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5370666981] Replaced hooked function.
+[LOG][1506850960.5371341705] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5371341705] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5373094082] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5373094082] Updated meta: target -antigen-load-source mode repeat type replace called 10
+[WRN][1506850960.5373859406] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5373859406] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5374679565] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5374679565] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages///zsh-org-pages.zsh
+[WRN][1506850960.5375666618] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5375666618] Replaced hooked function.
+[LOG][1506850960.5376307964] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5376307964] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5377461910] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5377461910] Return from hook antigen-bundle with 0
+[WRN][1506850960.5379121304] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5379121304] Updated meta: target antigen-bundle mode repeat type pre called 35
+[WRN][1506850960.5379846096] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5379846096] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5380446911] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5380446911] Pre hook: antigen-bundle-cached xgarrido/zsh-themes
+[WRN][1506850960.5381364822] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5381364822] -antigen-hook-antigen-bundle xgarrido/zsh-themes
+[TRA][1506850960.5382018089] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5382018089] Called antigen-bundle with xgarrido/zsh-themes BUNDLE
+[TRA][1506850960.5382018089] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5389249325] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5389249325] Updated meta: target -antigen-load-env mode repeat type replace called 11
+[WRN][1506850960.5390071869] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5390071869] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5390989780] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5390989780] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes btype plugin url https://github.com/xgarrido/zsh-themes.git loc / name xgarrido/zsh-themes make_local_clone true
+[WRN][1506850960.5392372608] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5392372608] Replaced hooked function.
+[LOG][1506850960.5393011570] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5393011570] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5394759178] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5394759178] Updated meta: target -antigen-load-source mode repeat type replace called 11
+[WRN][1506850960.5395524502] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5395524502] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5396568775] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5396568775] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes///zsh-themes.plugin.zsh
+[WRN][1506850960.5397439003] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5397439003] Replaced hooked function.
+[LOG][1506850960.5398075581] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5398075581] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5399160385] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5399160385] Return from hook antigen-bundle with 0
+[WRN][1506850960.5400748253] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5400748253] Updated meta: target antigen-bundle mode repeat type pre called 36
+[WRN][1506850960.5401439667] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5401439667] Processing hooks: antigen-bundle-cached
+[WRN][1506850960.5402016640] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1469
+[WRN][1506850960.5402016640] Pre hook: antigen-bundle-cached xgarrido/zsh-themes nemo --btype=theme
+[WRN][1506850960.5402984619] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5402984619] -antigen-hook-antigen-bundle xgarrido/zsh-themes nemo --btype=theme
+[TRA][1506850960.5403614044] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[TRA][1506850960.5403614044] Called antigen-bundle with xgarrido/zsh-themes nemo --btype=theme BUNDLE
+[TRA][1506850960.5403614044] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[WRN][1506850960.5410547256] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5410547256] Updated meta: target -antigen-load-env mode repeat type replace called 12
+[WRN][1506850960.5411350727] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5411350727] Processing hooks: -antigen-load-env-cached
+[WRN][1506850960.5412240028] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5412240028] Replace hook: -antigen-load-env-cached dir /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes btype theme url https://github.com/xgarrido/zsh-themes.git loc nemo.zsh-theme name xgarrido/zsh-themes make_local_clone true
+[WRN][1506850960.5413553715] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5413553715] Replaced hooked function.
+[LOG][1506850960.5414173603] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5414173603] Return from hook -antigen-load-env with 0
+[WRN][1506850960.5415842533] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1451
+[WRN][1506850960.5415842533] Updated meta: target -antigen-load-source mode repeat type replace called 12
+[WRN][1506850960.5416572094] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5416572094] Processing hooks: -antigen-load-source-cached
+[WRN][1506850960.5417342186] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1480
+[WRN][1506850960.5417342186] Replace hook: -antigen-load-source-cached /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes/nemo.zsh-theme
+[WRN][1506850960.5418198109] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850960.5418198109] Replaced hooked function.
+[LOG][1506850960.5418801308] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5418801308] Return from hook -antigen-load-source with 0
+[LOG][1506850960.5419874191] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850960.5419874191] Return from hook antigen-bundle with 0
+[WRN][1506850960.5420627594] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:48
+[WRN][1506850960.5420627594] Parallel install done PARALLEL
+[WRN][1506850960.5422880650] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.5422880650] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1506850960.5423693657] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.5423693657] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1506850960.5424461365] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.5424461365] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1506850960.5425221920] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1444
+[WRN][1506850960.5425221920] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1506850960.5425794125] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1466
+[WRN][1506850960.5425794125] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1506850960.5426454544] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1487
+[WRN][1506850960.5426454544] -antigen-hook-antigen-apply 
+[LOG][1506850960.5427038670] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:2
+[LOG][1506850960.5427038670] Called antigen-apply
+[TRA][1506850960.5427560806] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:3
+[TRA][1506850960.5427560806] Gonna create compdump file @ apply COMPDUMP
+[TRA][1506850960.5427560806] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/home/cloe/.zshrc
+[LOG][1506850961.2409989834] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850961.2409989834] Return from hook antigen-apply with 0
+[WRN][1506850961.2411460876] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1491
+[WRN][1506850961.2411460876] Replaced hooked function.
+[WRN][1506850961.2412028313] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1495
+[WRN][1506850961.2412028313] Post hook: antigen-apply-lock
+[WRN][1506850961.2412574291] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:22
+[WRN][1506850961.2412574291] Freeing antigen-lock file at /home/cloe/.config/zsh/antigen-repo/.lock
+[WRN][1506850961.2424180508] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1495
+[WRN][1506850961.2424180508] Post hook: antigen-apply-cached
+[LOG][1506850961.2427811623] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1769
+[LOG][1506850961.2427811623] Gonna generate cache for /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/svn/svn.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv /home/cloe/.config/zsh/antigen-repo/bundles/robbyrussell/oh-my-zsh/plugins/virtualenv/virtualenv.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting// /home/cloe/.config/zsh/antigen-repo/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search// /home/cloe/.config/zsh/antigen-repo/bundles/zsh-users/zsh-history-substring-search///zsh-history-substring-search.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-completions///zsh-completions.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-utilities///init.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-aggregator///zsh-aggregator.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-org-pages///zsh-org-pages.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes// /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes///zsh-themes.plugin.zsh /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes/nemo.zsh-theme /home/cloe/.config/zsh/antigen-repo/bundles/xgarrido/zsh-themes/nemo.zsh-theme
+[LOG][1506850961.4344787598] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850961.4344787598] Return from hook antigen-apply with 0
+[LOG][1506850961.4346289635] /home/cloe/.config/zsh/antigen/bin/antigen.zsh:1500
+[LOG][1506850961.4346289635] Return from hook antigen with 0
